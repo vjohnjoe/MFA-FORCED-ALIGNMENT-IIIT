@@ -1,0 +1,2 @@
+# MFA-FORCED-ALIGNMENT-IIIT
+Project given by IIIT
